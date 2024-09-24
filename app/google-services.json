@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022502855969",
+    "project_id": "job-inn-8efcb",
+    "storage_bucket": "job-inn-8efcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022502855969:android:d96390c80c295657cb8a60",
+        "android_client_info": {
+          "package_name": "com.example.jobportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPkhMI6l32xSjONNLXkZObmoE2sINSwUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
